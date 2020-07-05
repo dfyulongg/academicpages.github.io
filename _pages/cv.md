@@ -9,7 +9,6 @@ Education
 * B.S. in Automation, Beijing Institute of Technology, September 2009 - June 2013. 
 
 
-  
 Work experience
 ======
 * Research assistant, KTH Royal Institute of Technology, April 2016 - August 2016
